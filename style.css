@@ -1,0 +1,92 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.navbar {
+    background-color: rgba(23, 23, 24, 0.699);
+}
+
+.git {
+    padding-left: 550px;
+    display: inline;
+    font-size: 2rem;
+    color: whitesmoke;
+}
+
+.gut {
+    display: inline;
+}
+
+.search {
+    font-style: oblique;
+    font-size: 2rem;
+    text-align: left;
+    margin-top: 150px;
+    margin-left: 600px;
+    border: 0px solid gainsboro;
+    width: 550px;
+    height: 10vh;
+    border-radius: 1rem;
+    background-color: rgba(75, 82, 82, 0.342);
+}
+
+.lod {
+    margin-top: 1%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.line1 {
+    margin-left: 5%;
+    border: 0px solid gainsboro;
+    width: 350px;
+    height: 80vh;
+    border-radius: 2rem;
+    background-color: rgba(75, 82, 82, 0.342);
+}
+
+.line2 {
+    margin-top: 10%;
+    margin-left: 150px;
+    border: 0px solid rgb(104, 103, 103);
+    width: 150px;
+    height: 20vh;
+    border-radius: 1rem;
+    background-color: rgba(75, 82, 82, 0.342);
+}
+
+.line3 {
+    margin-top: 10%;
+    margin-left: 150px;
+    border: 0px solid rgb(104, 103, 103);
+    width: 150px;
+    height: 20vh;
+    border-radius: 1rem;
+    background-color: rgba(75, 82, 82, 0.342);
+}
+
+.line4 {
+    margin-top: 10%;
+    margin-left: 150px;
+    border: 0px solid rgb(104, 103, 103);
+    width: 150px;
+    height: 20vh;
+    border-radius: 1rem;
+    background-color: rgba(75, 82, 82, 0.342);
+}
+
+.line5 {
+    margin-left: 550px;
+    margin-bottom: 300px;
+    border: 0px solid rgb(104, 103, 103);
+    width: 950px;
+    height: 20vh;
+    border-radius: 1rem;
+    background-color: rgba(75, 82, 82, 0.342);
+}
